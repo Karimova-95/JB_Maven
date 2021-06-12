@@ -1,5 +1,6 @@
+import org.apache.commons.lang.StringUtils;
+
 import java.util.Scanner;
-import org.apache.commons.lang3.StringUtils;
 
 public class MainApp {
     public static void main(String[] args) {
